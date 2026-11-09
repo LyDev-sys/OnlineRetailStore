@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|c:\\users\\seavly\\desktop\\onlineretailstore\\onlineretailstore\\onlineretailstore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|solutionrelative:onlineretailstore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|c:\\users\\seavly\\desktop\\onlineretailstore\\onlineretailstore\\onlineretailstore\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|solutionrelative:onlineretailstore\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|c:\\users\\seavly\\desktop\\onlineretailstore\\onlineretailstore\\onlineretailstore\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|solutionrelative:onlineretailstore\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|c:\\users\\seavly\\desktop\\onlineretailstore\\onlineretailstore\\onlineretailstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|solutionrelative:onlineretailstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|c:\\users\\seavly\\desktop\\onlineretailstore\\onlineretailstore\\onlineretailstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|solutionrelative:onlineretailstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|c:\\users\\seavly\\desktop\\onlineretailstore\\onlineretailstore\\onlineretailstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|solutionrelative:onlineretailstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|c:\\users\\seavly\\desktop\\onlineretailstore\\onlineretailstore\\onlineretailstore\\migrations\\20261109100544_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|solutionrelative:onlineretailstore\\migrations\\20261109100544_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|c:\\users\\seavly\\desktop\\onlineretailstore\\onlineretailstore\\onlineretailstore\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|solutionrelative:onlineretailstore\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|c:\\users\\seavly\\desktop\\onlineretailstore\\onlineretailstore\\onlineretailstore\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|solutionrelative:onlineretailstore\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|c:\\users\\seavly\\desktop\\onlineretailstore\\onlineretailstore\\onlineretailstore\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|solutionrelative:onlineretailstore\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|c:\\users\\seavly\\desktop\\onlineretailstore\\onlineretailstore\\onlineretailstore\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|solutionrelative:onlineretailstore\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|c:\\users\\seavly\\desktop\\onlineretailstore\\onlineretailstore\\onlineretailstore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|solutionrelative:onlineretailstore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|c:\\users\\seavly\\desktop\\onlineretailstore\\onlineretailstore\\onlineretailstore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|solutionrelative:onlineretailstore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|c:\\users\\seavly\\desktop\\onlineretailstore\\onlineretailstore\\onlineretailstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|solutionrelative:onlineretailstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|c:\\users\\seavly\\desktop\\onlineretailstore\\onlineretailstore\\onlineretailstore\\onlineretailstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DDF0A052-FB3D-58A4-9FF7-4DED52221FCD}|OnlineRetailStore\\OnlineRetailStore.csproj|solutionrelative:onlineretailstore\\onlineretailstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlineRetailStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnlineRetailStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T10:16:44.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20261109100544_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Migrations\\20261109100544_FirstMigration.cs",
+              "RelativeDocumentMoniker": "OnlineRetailStore\\Migrations\\20261109100544_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Migrations\\20261109100544_FirstMigration.cs",
+              "RelativeToolTip": "OnlineRetailStore\\Migrations\\20261109100544_FirstMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T10:05:44.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineRetailStore\\Program.cs",
+              "ToolTip": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Program.cs",
+              "RelativeToolTip": "OnlineRetailStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T10:04:01.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineRetailStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\appsettings.json",
+              "RelativeToolTip": "OnlineRetailStore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-09T09:57:22.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "OnlineRetailStore\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Models\\Payment.cs",
+              "RelativeToolTip": "OnlineRetailStore\\Models\\Payment.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T09:52:36.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "OnlineRetailStore\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "OnlineRetailStore\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T09:50:57.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OnlineRetailStore\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Models\\Order.cs",
+              "RelativeToolTip": "OnlineRetailStore\\Models\\Order.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T09:50:40.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "OnlineRetailStore\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Models\\CartItem.cs",
+              "RelativeToolTip": "OnlineRetailStore\\Models\\CartItem.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T09:15:26.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "OnlineRetailStore\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Models\\Cart.cs",
+              "RelativeToolTip": "OnlineRetailStore\\Models\\Cart.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T09:14:39.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "OnlineRetailStore\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Models\\Product.cs",
+              "RelativeToolTip": "OnlineRetailStore\\Models\\Product.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T09:13:23.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "OnlineRetailStore\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Models\\Category.cs",
+              "RelativeToolTip": "OnlineRetailStore\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T09:12:39.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Models\\User.cs",
+              "RelativeDocumentMoniker": "OnlineRetailStore\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Models\\User.cs",
+              "RelativeToolTip": "OnlineRetailStore\\Models\\User.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA4wCEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T09:11:26.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "OnlineRetailStore\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "OnlineRetailStore\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T08:51:30.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "OnlineRetailStore\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\Models\\Role.cs",
+              "RelativeToolTip": "OnlineRetailStore\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T08:50:36.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OnlineRetailStore.csproj",
+              "DocumentMoniker": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore.csproj",
+              "RelativeDocumentMoniker": "OnlineRetailStore\\OnlineRetailStore.csproj",
+              "ToolTip": "C:\\Users\\SEAVLY\\Desktop\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore\\OnlineRetailStore.csproj",
+              "RelativeToolTip": "OnlineRetailStore\\OnlineRetailStore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-09T08:44:35.641Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
