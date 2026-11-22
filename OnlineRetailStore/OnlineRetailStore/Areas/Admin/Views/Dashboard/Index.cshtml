@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h2 class="mb-4">Admin Dashboard</h2>
+
+<div class="row g-3">
+    <div class="col-md-3">
+        <div class="card text-bg-primary shadow-sm">
+            <div class="card-body">
+                <h6 class="card-title">Total Products</h6>
+                <h3>@ViewBag.TotalProducts</h3>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="card text-bg-success shadow-sm">
+            <div class="card-body">
+                <h6 class="card-title">Total Categories</h6>
+                <h3>@ViewBag.TotalCategories</h3>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="card text-bg-warning shadow-sm">
+            <div class="card-body">
+                <h6 class="card-title">Total Orders</h6>
+                <h3>@ViewBag.TotalOrders</h3>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="card text-bg-dark shadow-sm">
+            <div class="card-body">
+                <h6 class="card-title">Total Revenue</h6>
+                <h3>$@(((decimal)ViewBag.TotalRevenue).ToString("N2"))</h3>
+            </div>
+        </div>
+    </div>
+</div>
